@@ -60,4 +60,10 @@ Cybersecurity is a vast and dynamic field, continuously evolving as new technolo
 
 ### How to Install Kali Linux in Oracle VirtualBox
 
-[INSTALL Virtual Kali Linux](installKali.md)
+[INSTALL Virtual Kali Linux]
+
+(Day 1/installKali.md)
+
+#Essential Linux Commands
+[Essential Linux Commands]
+(Essential Linux Commands/Essential Linux Commands.md)
