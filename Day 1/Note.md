@@ -65,4 +65,5 @@ Cybersecurity is a vast and dynamic field, continuously evolving as new technolo
 (Day 1/installKali.md)
 
 # Essential Linux Commands
-[INSTALL Virtual Kali Linux](Essential Linux Commands/Essential Linux Commands.md)
+
+[Click](Essential Linux Commands/Essential Linux Commands.md)
