@@ -28,4 +28,4 @@ Tools of the Trade
 
 ### How to Install Kali Linux in Oracle VirtualBox
 
-[INSTALL Virtual Kali Linux](Class%201/installKali.md)
+[INSTALL Virtual Kali Linux](Class1/installKali.md)
