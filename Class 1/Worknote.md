@@ -26,5 +26,6 @@ Prevents data breaches and cyber-attacks.
 Ensures the safe use of the internet and devices.
 Tools of the Trade
 
-### How to Install Kali Linux in Oracle VirtualBox 
-[click] (install kali.md)
+### How to Install Kali Linux in Oracle VirtualBox
+
+[INSTALL Virtual Kali Linux](Class%201/installKali.md)
